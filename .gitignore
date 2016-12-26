@@ -1,8 +1,5 @@
 .idea/
 node_modules/
 
-app.component.js
-app.component.js.map
-
-boot.js
-boot.js.map
+app/*.js
+app/*.map
